@@ -96,6 +96,8 @@ We will need
 
    ```sh
    node server.js
+   node admin.js
+   node mongo.js
    ```
 
 5. Put some data
